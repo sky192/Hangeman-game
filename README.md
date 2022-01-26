@@ -1,3 +1,3 @@
 # Hangeman-game
 
-Hang man game written by vanilla javaScript.
+Hang man game written in vanilla javaScript.
